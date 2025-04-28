@@ -1,0 +1,24 @@
+    Color     |   Usage Suggestions                                 
+#F1F8E8     |   Page background (very light, non-intrusive)
+#55AD9B     |   Primary buttons, nav bar, CTAs, hover highlights
+#95D2B3     |   Card backgrounds, badges
+#D8EFD3     |   Subtle section backgrounds, form fields
+
+
+Dark Gray (e.g. #2B2B2B) | Text for readability without harsh contrast
+
+Headings: Poppins, Manrope, or Outfit – clean and modern
+
+Body text: Inter, Nunito, or Work Sans – easy to read, very web-friendly
+
+
+Page Ideas for Your Community:
+Home – What’s MERN? Why your community?
+
+Projects – A place to share open source/portfolio projects
+
+Learn – Tutorials, resources, starter kits
+
+Forum/Chat – Dev talk, help threads (could link with Discord/Slack)
+
+Events – Hackathons, webinars, coding challenges
